@@ -21,12 +21,12 @@ export default function SiteFooter() {
 
                     <p className="text-balance text-center text-sm leading-loose text-muted-foreground md:text-left">
                         ©️ 2024 Spectron Labs, All rights reserved. Built by <a
-                        href={"https://github.com/MrInspection"}
+                        href={"https://github.com/ayoubhayda"}
                         target="_blank"
                         rel="noreferrer"
                         className="font-medium underline underline-offset-4"
                     >
-                        Moussa
+                        Ayoub Hayda
                     </a>
                         .
                     </p>
